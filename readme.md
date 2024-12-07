@@ -135,4 +135,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-For any questions or feedback, please contact **Tharun Kota Sreekanth** at [your-email@example.com].
+For any questions or feedback, please contact **Tharun Kota Sreekanth** at [tharunkotasreekanth2003@gmail.com].
