@@ -38,7 +38,7 @@ This repository contains a Python-based **Log Analysis Tool** designed to proces
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/log-analysis-tool.git
+   git clone https://github.com/Tharunks007/log-analysis-tool.git
    cd log-analysis-tool
    ```
 
